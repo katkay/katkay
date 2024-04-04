@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @katkay
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on any project that has to do with web development
 - 📫 How to reach me kelvinkaykatoya@gmail.com
 
